@@ -1,0 +1,27 @@
+# Plugins
+gems:             ['jekyll-paginate']
+
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            SWR
+tagline:          Adaptation de Savage Worlds à Star Wars
+description:      "Adaptation de Savage Worlds à Star Wars"
+url:              http://sw-redemption.frama.io
+locale:           fr_FR
+
+author:
+  name:           'Marthym'
+  url:            https://git.framasoft.org/marthym
+
+paginate:         5
+
+# Custom vars
+version:          1.0.1
+
+github:
+  repo:           https://git.framasoft.org/sw-redemption
