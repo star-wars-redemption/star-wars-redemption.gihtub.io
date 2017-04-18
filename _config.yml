@@ -10,9 +10,10 @@ permalink:        pretty
 # Setup
 title:            SWR
 tagline:          Adaptation de Savage Worlds à Star Wars
-description:      "Adaptation de Savage Worlds à Star Wars"
+description:      "Adaptation de Savage Worlds à l’univers de Star Wars"
 url:              http://sw-redemption.frama.io
 locale:           fr_FR
+img_dir:          /assets/img/
 
 author:
   name:           'Marthym'
@@ -21,7 +22,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0.1
+version:          1.1.1
 
 github:
   repo:           https://git.framasoft.org/sw-redemption

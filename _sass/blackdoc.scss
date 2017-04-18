@@ -98,6 +98,7 @@ hr {
   border-top: rgba(235, 242, 246, 0.29) 1px solid;
   margin: 1.2em 0;
   padding: 0;
+  clear: both;
 }
 
 blockquote {
@@ -274,6 +275,9 @@ a.sidebar-nav-item {
     color: #FFC31E;
   }
 }
+.post {
+  margin-bottom: 2em;
+}
 
 /*
  * Reverse layout
@@ -299,6 +303,10 @@ a.sidebar-nav-item {
     margin-left: 4rem;
     margin-right: 22rem;
   }
+}
+
+.right {
+  float: right;
 }
 
 /*

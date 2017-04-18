@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.baseurl }}/">
           {{ site.title }}
         </a>
       </h1>
@@ -10,8 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      {% capture swr_post_url %}{% post_url 2017-04-17-Star Wars Redemention %}{% endcapture %}
-      <a class="sidebar-nav-item{% if page.url == swr_post_url %} active{% endif %}" href="{{ site.baseurl }}{{ swr_post_url }}">Manuel du joueur</a>
+      <a class="sidebar-nav-item{% if page.url == site.posts.last.url %} active{% endif %}" href="{{ site.baseurl }}{{ site.posts.last.url }}">Manuel du joueur</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -27,12 +26,11 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/master.zip">Download</a>
+      <a class="sidebar-nav-item" href="https://github.com/Marthym/jdrp-sw-redemption/releases/download/v1.1.1/SW-Redemption.Livre.du.joueur-v1.1.1.pdf">Télécharger</a>
       <hr>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">Projet Framagit</a>
       <span class="sidebar-nav-item">Actuellement v{{ site.version }}</span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
