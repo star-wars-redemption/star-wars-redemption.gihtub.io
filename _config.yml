@@ -25,3 +25,6 @@ version:          1.0.1
 
 github:
   repo:           https://git.framasoft.org/sw-redemption
+
+sass:
+    style:        compressed

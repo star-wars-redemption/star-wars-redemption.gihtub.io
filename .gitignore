@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 .jekyll-metadata
+.sass-cache
 *.lock
 
 # Numerous always-ignore extensions
