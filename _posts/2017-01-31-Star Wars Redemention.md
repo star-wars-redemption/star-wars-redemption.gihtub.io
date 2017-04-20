@@ -1,6 +1,7 @@
 ---
 layout: post
 title: =Star Wars Redemption=
+permalink: /star-wars-redemption/
 image: sw-redemption.jpg
 ---
 
