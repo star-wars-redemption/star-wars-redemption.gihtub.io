@@ -5,7 +5,7 @@ permalink: /star-wars-redemption/
 image: sw-redemption.jpg
 ---
 
-Encore une autre adaptation de Savage Worlds à <span>Star Wars</span> ? C’est vrai, il en existe déjà plusieurs comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvée présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative, il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
+Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</span> ? C’est vrai, il déjà plusieurs JdR amateur sur ce thème, comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvée présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative, il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
 
 ![swr]({{ site.img_dir | append: page.image | absolute_url }})
 
@@ -19,7 +19,7 @@ Dans l’univers Star Wars il est vite tentant de vouloir se faire un personnage
 
 ## Contribution
 
-Comme je le disais plus haut, l’idée principale de ce document est de permettre à tous ceux qui le souhaitent de participer. Le document est donc écrit en LaTeX et disponible sur Github.
+Comme je le disais plus haut, l’idée principale de ce JdR amateur est de permettre à tous ceux qui le souhaitent de participer. Le document est donc écrit en LaTeX et disponible sur Github.
 
 ## Licence
 
