@@ -4,7 +4,8 @@ title: =Songes de l’uhumele=
 excerpt: "Un équipage de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille, emportées dans un réseau de traffic d’esclaves."
 tags: [scenario]
 image: uhumele.png
-download: https://git.framasoft.org/sw-redemption/swr-songes-de-l-uhumele/builds/artifacts/1.0.0/download?job=songes-de-l-uhumele-RELEASE
+modified: 2017-04-11
+download: https://git.framasoft.org/sw-redemption/swr-songes-de-l-uhumele/builds/artifacts/1.0.1/download?job=songes-de-l-uhumele-RELEASE
 ---
 ![Uhumele]({{ site.img_dir | append: page.image | absolute_url }}){: .right}
 
