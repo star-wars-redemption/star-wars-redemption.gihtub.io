@@ -15,7 +15,7 @@ L’idée est que l’un des personnages, sensible à la force et possédant *Se
 
 Bien-sûr, ce scénario peut aussi être joué hors du contexte de la campagne Dos au Muur, en remplaçant l’introduction “vision” par, par exemple, une introduction à base de contrat.
 
-A noter que ce scénario est plutôt fait pour des héros notre ou orienté gentils.
+A noter que ce scénario est plutôt fait pour des héros neutres ou orienté gentils.
 
 Ce scénario se passe normalement en -19 pendant les derniers affrontements entre l’armée des clones et les armées de droïde de la Confédération des Systèmes Indépendants.
 
