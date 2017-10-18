@@ -6,7 +6,7 @@ title: Accueil
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <img class="right" src="{{ site.img_dir | append: post.image | absolute_url }}"/>
+    <img class="right thumbnail" src="{{ site.img_dir | append: post.image | absolute_url }}"/>
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url | remove_first: '/'}}">
         {{ post.title }}
