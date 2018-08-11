@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            SWR
 tagline:          Adaptation de Savage Worlds à Star Wars
-description:      "Adaptation du JDR Savage Worlds à l’univers de Star Wars"
+description:      "Adaptation gratuite et open source du JDR Savage Worlds à l’univers de Star Wars"
 url:              https://swr.ght1pc9kc.fr
 locale:           fr_FR
 img_dir:          /assets/img/
@@ -19,7 +19,7 @@ author:
   name:           'Marthym'
   url:            https://git.framasoft.org/marthym
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          1.2.0

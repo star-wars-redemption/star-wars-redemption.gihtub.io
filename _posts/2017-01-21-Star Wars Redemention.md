@@ -3,6 +3,10 @@ layout: post
 title: =Star Wars Redemption=
 permalink: /star-wars-redemption/
 image: sw-redemption.jpg
+lastmod: 2018-08-11T00:00:00+02:00
+excerpt: "Star Wars Rédemption est un JDRA gratuit dans l’univers de starwars et reposant sur le JDR Savage Worlds"
+sitemap:
+  priority: 1.0
 ---
 
 Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</span> ? C’est vrai, il déjà plusieurs JdR amateur sur ce thème, comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvée présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative, il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
