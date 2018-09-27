@@ -2,7 +2,7 @@
 layout: post
 title: =Star Wars Redemption+ v1.2.0
 excerpt: "Nouvelle mise à jour de Star Wars Redemption v1.2.0"
-download: https://framagit.org/sw-redemption/jdrp-sw-redemption/-/jobs/229504/artifacts/file/SW-Redemption,%20Livre%20du%20joueur-1.2.0.pdf
+download: https://framagit.org/sw-redemption/jdrp-sw-redemption/-/jobs/229504/artifacts/raw/SW-Redemption,%20Livre%20du%20joueur-1.2.0.pdf?inline=false
 image: besalisk.png
 ---
 
