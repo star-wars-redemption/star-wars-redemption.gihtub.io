@@ -3,7 +3,7 @@ layout: post
 title: =Star Wars Redemption=
 permalink: /star-wars-redemption/
 image: sw-redemption.jpg
-lastmod: 2018-08-11T00:00:00+02:00
+lastmod: 2020-04-05T00:00:00+02:00
 excerpt: "Star Wars Rédemption est un JDRA gratuit dans l’univers de starwars et reposant sur le JDR Savage Worlds"
 sitemap:
   priority: 1.0

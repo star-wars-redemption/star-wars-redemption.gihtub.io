@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 173.38551 55.332242"
+   height="55.332241mm"
+   width="173.3855mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-20.326041,-132.7631)"
+     id="layer1">
+    <g
+       id="text817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.80815125px;line-height:18.00509453px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';letter-spacing:0px;word-spacing:0px;fill:#ffc31e;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       aria-label="SWR">
+      <path
+         id="path819"
+         transform="scale(0.26458333)"
+         d="m 201.57617,524.45898 c -20.8689,0 -33.26935,10.13055 -37.20117,30.39454 -3.93182,20.26401 7.25931,42.49557 33.57227,66.6914 15.95412,12.55159 13.23216,18.52482 -8.16602,17.91992 H 99.5 v 48.76954 h 142.90625 c 23.59093,-3.93182 35.61273,-16.03091 36.06641,-36.29493 0.45367,-20.26398 -11.56814,-41.13168 -36.06641,-62.60547 -13.68576,-11.3418 -10.81313,-16.71037 8.61914,-16.10546 h 4.99219 34.02539 l 37.6543,115.00586 h 53.30664 l 17.23828,-69.41211 20.75586,69.41211 h 53.30664 l 22.79687,-92.20899 v 92.20899 h 59.20508 v -54.10157 l 51.94531,54.10157 h 103.20899 v -48.76954 h -87.5586 L 609.6543,623.8125 c 12.70279,-3.02448 22.45663,-7.18371 29.26172,-12.47656 6.80506,-5.29283 11.56897,-11.87074 14.29101,-19.73438 2.72202,-7.86366 2.5694,-19.05477 -0.45508,-33.57226 -3.93181,-9.67831 -10.13107,-17.3902 -18.59961,-23.13672 -8.46853,-5.74652 -19.28101,-9.22382 -32.4375,-10.4336 h -88.91992 -17.69336 -35.04687 l -15.19727,70.77149 -22.79687,-70.77149 h -48.9961 l -19.50781,70.77149 -22.45703,-70.77149 h -28.58203 -46.5 z m 352.73047,40.83008 h 41.16992 c 1.81468,0 4.04498,1.021 6.69141,3.0625 2.72201,1.96594 4.27231,6.08555 4.65039,12.36133 -0.15123,6.57824 -1.51318,10.69981 -4.08398,12.36328 -2.57081,1.58783 -4.95178,2.38281 -7.14454,2.38281 h -41.2832 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.45738983px;font-family:'Star Jedi';-inkscape-font-specification:'Star Jedi';fill:#ffc31e;fill-opacity:1;stroke:#000000;stroke-width:7.55905533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
