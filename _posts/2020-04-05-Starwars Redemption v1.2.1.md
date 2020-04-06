@@ -15,3 +15,5 @@ Voilà bien longtemps que je n’avaispas fait de modification. En cette périod
 
 
 [Manuel du joueur]({{ page.download }})
+
+[Commenter sur Reddit](https://www.reddit.com/r/jdr/comments/fvvdhn/starwars_redemption_v121/?utm_source=share&utm_medium=web2x)
