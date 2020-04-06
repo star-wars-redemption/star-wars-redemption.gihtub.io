@@ -1,16 +1,19 @@
 ---
-layout: post
 title: =Star Wars Redemption+ v1.2.0
-excerpt: "Nouvelle mise à jour de Star Wars Redemption v1.2.0"
-download: https://framagit.org/sw-redemption/jdrp-sw-redemption/-/jobs/229504/artifacts/raw/SW-Redemption,%20Livre%20du%20joueur-1.2.0.pdf?inline=false
-image: besalisk.png
----
+date: 2017-08-15
+featured: besalisk.png
+categories:
+  - "Livre de base"
+tags:
+  - joueur
+  - MJ
 
-![img]({{ site.img_dir | append: page.image | absolute_url }}){: .right}
+---
 
 Voilà une mise à jour de Star Wars Redemption avec comme principale nouveautés, les races Besalisk et Drall. 
 La première orientée plus bourrin, la seconde plutôt voleur.
 
+<!--more-->
 En plus de ces deux nouvelles races, beaucoup de corrections de fautes de frappe et de quelques coquilles qui trainaient.
 
 Enfin, le fichier PDF est un peu plus gros mais il est beaucoup plus fluide. Les images ont été optimizées et 
@@ -21,4 +24,4 @@ De plus, pour des raisons de facilité de configuration, le projet est déménag
 [framagit](https://framagit.org/sw-redemption/jdrp-sw-redemption).
 
 
-[Manuel du joueur]({{ page.download }})
+[Manuel du joueur](https://framagit.org/sw-redemption/jdrp-sw-redemption/-/jobs/229504/artifacts/raw/SW-Redemption,%20Livre%20du%20joueur-1.2.0.pdf?inline=false)

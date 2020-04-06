@@ -1,20 +1,26 @@
 ---
 layout: post
 title: =Songes de l’uhumele=
-excerpt: "Un équipage de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille, emportées dans un réseau de traffic d’esclaves."
-tags: [scenario]
-image: uhumele.png
-modified: 2017-04-11
-download: https://git.framasoft.org/sw-redemption/swr-songes-de-l-uhumele/builds/artifacts/1.0.1/download?job=songes-de-l-uhumele-RELEASE
+summary: |
+    Un équipage de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille, emportées dans un réseau de traffic d’esclaves.
+    
+    Voici un court scénario sur le thème de l’Uhumele, pour des héros neutres ou orienté gentils.
+categories:
+  - "scenarios"
+tags: 
+  - "uhumele"
+  - "mj"
+  - "pdf"
+featured: uhumele.png
+lastmod: 2017-04-11
 ---
 
 | Titre      | Songes de l’Uhumele | 
+| ---------- | ------------------- |
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [songes-de-l-uhumele-1.0.1.zip]({{ page.download }}) |
-
-![Uhumele]({{ site.img_dir | append: page.image | absolute_url }}){: .right}
+| Fichiers   | [songes-de-l-uhumele-1.0.1.zip](https://git.framasoft.org/sw-redemption/swr-songes-de-l-uhumele/builds/artifacts/1.0.1/download?job=songes-de-l-uhumele-RELEASE) |
 
 Voici un court scénario sur le thème de l’Uhumele. Ce scénario bien qu’indépendant est fortement lié à la campagne "Dos au Muur" de [Star Wars Redemption]. C’est un scénario écrit pour faire patienter entre deux étapes de la campagne (2 et 3). 
 
@@ -27,6 +33,6 @@ A noter que ce scénario est plutôt fait pour des héros neutres ou orienté ge
 Ce scénario se passe normalement en -19 pendant les derniers affrontements entre l’armée des clones et les armées de droïde de la Confédération des Systèmes Indépendants.
 
 
-![image](https://git.framasoft.org/sw-redemption/latex-swr-class/raw/master/_img/wtfpl-badge.png){: .right}
+![image](https://git.framasoft.org/sw-redemption/latex-swr-class/raw/master/_img/wtfpl-badge.png)
 
 [Star Wars Redemption]: {{ site.posts.last.url }}

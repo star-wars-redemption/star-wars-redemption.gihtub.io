@@ -3,7 +3,14 @@ layout: post
 title: =Star Wars Redemption+ v1.2.1
 excerpt: "Nouvelle mise à jour de Star Wars Redemption v1.2.1"
 download: /assets/pdf/swr-livre-joueur-v1.2.1.pdf
-image: sw-redemption.jpg
+categories:
+  - "Manuel du Joueur"
+tags:
+  - "pdf"
+  - "release"
+
+featured:
+  url: sw-redemption.jpg
 ---
 
 ![img]({{ site.img_dir | append: page.image | absolute_url }}){: .right}

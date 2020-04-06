@@ -1,0 +1,8 @@
+@font-face {
+    font-family:starJedi;
+    src:url(../font/Starjedi.ttf)
+}
+
+h1, .main-nav__list {
+    font-family: 'starJedi', serif;
+}

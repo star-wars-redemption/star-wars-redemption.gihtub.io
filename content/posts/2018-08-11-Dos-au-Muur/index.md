@@ -1,19 +1,24 @@
 ---
-layout: post
 title: =Dos au Muur=
-excerpt: "Une campagne en 5 scénarios permettant l’introduction de personnages. Tout est fourni, la campagne peut être géré par un MJ débutant."
-tags: [scenario]
-image: talisman.png
-download: https://git.framasoft.org/sw-redemption/swr-dos-au-mur/builds/artifacts/1.0.0/download?job=deploy-RELEASE
+date: 2018-08-11
+summary: |
+    Une campagne en 5 scénarios permettant l’introduction de personnages. Tout est fourni, la campagne peut être géré par un MJ débutant.
+
+    Cette campagne est écrite initialement pour [Star Wars Redemption] mais un scénar reste un scénar et il est jouable dans n’importe quel univers de Star Wars.
+categories:
+  - Scénarios
+tags:
+  - MJ
+  - campagne
+featured: talisman.png
 ---
 
-| Titre      | Dos au Muur         | 
+| Titre      | Dos au Muur         |
+| ---------- | ------------------- |
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [dos-au-muur-v1.0.0.zip]({{ page.download }}) |
-
-![Talisman de Muur]({{ site.img_dir | append: page.image | absolute_url }}){: .right}
+| Fichiers   | [dos-au-muur-v1.0.0.zip](https://git.framasoft.org/sw-redemption/swr-dos-au-mur/builds/artifacts/1.0.0/download?job=deploy-RELEASE) |
 
 Cette campagne est écrite initialement pour [Star Wars Redemption] mais un scénar reste un scénar et il est jouable dans n’importe quel univers de Star Wars.
 
@@ -25,9 +30,9 @@ La trame de la campagne se base sur un très ancien artefact Sith, le [Talisman 
 
 On trouve beaucoup d’informations sur cet artefact sur [HoloNet] et je me suis grandement inspiré de ces informations pour cette campagne en faisant vivre à mes héros les aventures de divers protagonistes ayant croisé le Talisman
 
-![image](https://git.framasoft.org/sw-redemption/latex-swr-class/raw/master/_img/wtfpl-badge.png){: .right}
+![image](https://git.framasoft.org/sw-redemption/latex-swr-class/raw/master/_img/wtfpl-badge.png)
 
-[Star Wars Redemption]: {{ site.posts.last.url }}
+[Star Wars Redemption]: /categories/livre-de-base/
 [Talisman de Muur]: http://www.starwars-holonet.com/encyclopedie/technologie-talisman-muur.html
 [Karness Muur]: http://www.starwars-holonet.com/encyclopedie/personnage-muur-karness.html
 [HoloNet]: http://www.starwars-holonet.com

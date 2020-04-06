@@ -1,0 +1,32 @@
+---
+baseURL: "https://swr.ght1pc9kc.fr/"
+languageCode: "fr-fr"
+title: "Starwars Redemption - Jeu de rôle papier"
+theme: "binario"
+
+categories:
+  - "Category 1"
+  - "Category 2"
+tags:
+  - "scenario"
+  - "Another tag"
+
+menu: main
+
+author:
+  name: Marthym
+
+params:
+  customCSS: 
+    - /css/swr.css
+  entry:
+    meta:
+      - date
+      - categories
+  share:
+    reddit: true
+
+outputs:
+  home:
+    - HTML
+    - RSS

@@ -1,9 +1,13 @@
 ---
-layout: post
 title: +La résistance à besoin de vous+
-excerpt: "L’alliance rebelle cherche un Jedi habile au crayon laser ..."
-image: needyou.png
-download: https://framagit.org/sw-redemption/sw-redemption.frama.io/issues/1
+date: 2017-05-19
+lastmod: 2020-04-05
+featured: needyou.png
+categories:
+  - Divers
+tags:
+  - wanted
+  - artwork
 ---
 
 *L’alliance rebelle cherche un Jedi habile au crayon laser ...*
