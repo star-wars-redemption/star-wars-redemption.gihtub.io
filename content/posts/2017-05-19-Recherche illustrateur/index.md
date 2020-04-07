@@ -1,7 +1,7 @@
 ---
 title: =Enrolez vous aujourd'hui=
 date: 2020-03-29
-description: Participer à l’illustration du livre de base de Starwars Redemption. Le jeux de rôle recherche un dessinateur.
+description: Participer à l’illustration du livre de base de Star Wars Redemption. Le jeux de rôle recherche un dessinateur.
 categories:
   - Divers
 tags:

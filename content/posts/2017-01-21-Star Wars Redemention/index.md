@@ -4,7 +4,6 @@ date: 2017-01-21
 description: "Star Wars Rédemption est un JDRA gratuit dans l’univers de starwars et reposant sur le JDR Savage Worlds"
 sitemap:
   priority: 1.0
-# menu: main
 categories:
   - "Livre de base"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: =Star Wars Redemption+ v1.2.1
 date: 2020-04-05
-description: Mise à jour du livre de base de Starwars Redemption avec de nouvelles compétences et la fiche de personnage
+description: Mise à jour du livre de base de Star Wars Redemption avec de nouvelles compétences et la fiche de personnage
 categories:
   - "Livre de base"
 tags:

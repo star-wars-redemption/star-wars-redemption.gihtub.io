@@ -1,7 +1,7 @@
 ---
 title: =Songes de l’uhumele=
 date: 2017-04-11
-description: Scénario pour Starwars Redemption (SWR), l’Uhumele un vaisseu de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille
+description: Scénario pour Star Wars Redemption (SWR), l’Uhumele un vaisseu de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille
 summary: |
     Un équipage de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille, emportées dans un réseau de traffic d’esclaves.
     
@@ -19,7 +19,8 @@ tags:
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [songes-de-l-uhumele-1.0.1.zip](https://git.framasoft.org/sw-redemption/swr-songes-de-l-uhumele/builds/artifacts/1.0.1/download?job=songes-de-l-uhumele-RELEASE) |
+| Fichiers   | [songes-de-l-uhumele-1.0.1.pdf](https://www.scenariotheque.org/Fichiers/scenarios/pdf/9023_songes_de_l_uhumele.pdf) |
+|            | [forteresse_esseles.png](https://www.scenariotheque.org/Fichiers/scenarios/pdf/9023_forteresse_esseles.png) |
 
 {{< figure src="uhumele.webp" class="floatright" >}}
 Voici un court scénario sur le thème de l’Uhumele. Ce scénario bien qu’indépendant est fortement lié à la campagne "Dos au Muur" de [Star Wars Redemption]. C’est un scénario écrit pour faire patienter entre deux étapes de la campagne (2 et 3). 
