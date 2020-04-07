@@ -1,28 +1,25 @@
-image: ruby:2.3
-
-variables:
-  JEKYLL_ENV: production
-
-before_script:
-  - bundle install
-
-test:
-  stage: test
+stages:
+    - build:theme
+    - build
+    - deploy
+  
+build:pages:
+  stage: build
+  image: monachus/hugo:v0.68.3
   script:
-    - bundle exec jekyll build -d test
+    - hugo
   artifacts:
     paths:
-    - test
-  except:
-  - master
+      - public
 
 pages:
   stage: deploy
+  dependencies:
+    - build:pages
   script:
-    - bundle exec jekyll build -d public
     - find public -type f -iregex '.*\.\(htm\|html\|txt\|text\|js\|css\|json\)$' -execdir gzip -f --keep {} \;
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
+    - master
