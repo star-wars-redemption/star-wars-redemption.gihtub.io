@@ -1,5 +1,6 @@
 ---
 title: =Star Wars Redemption=
+description: Articles concernant le livre de base de Starwars Redemption, fiche de personnage et livre du maitre du jeux.
 aliases:
   - /star-wars-redemption/
 menu: main

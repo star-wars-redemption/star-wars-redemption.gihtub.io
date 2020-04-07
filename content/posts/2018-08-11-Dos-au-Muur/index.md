@@ -1,6 +1,7 @@
 ---
 title: =Dos au Muur=
 date: 2018-08-11
+description: Une campagne en 5 scénarios pour Starwars Redemption, permettant l’introduction de personnages, pout un maitre du jeux débutant
 summary: |
     Une campagne en 5 scénarios permettant l’introduction de personnages. Tout est fourni, la campagne peut être géré par un MJ débutant.
 

@@ -1,12 +1,12 @@
 ---
 title: =Star Wars Redemption+ v1.2.0
 date: 2017-08-15
+description: Mise à jour de Star Wars Redemption, nouvelles races avec les Besalisk et les Drall
 categories:
   - "Livre de base"
 tags:
   - joueur
   - MJ
-
 ---
 
 Une mise à jour de Star Wars Redemption avec comme principales nouveautés, les races Besalisk et Drall. 

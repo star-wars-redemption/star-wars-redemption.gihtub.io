@@ -1,6 +1,7 @@
 ---
 title: =Songes de l’uhumele=
 date: 2017-04-11
+description: Scénario pour Starwars Redemption (SWR), l’Uhumele un vaisseu de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille
 summary: |
     Un équipage de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille, emportées dans un réseau de traffic d’esclaves.
     
