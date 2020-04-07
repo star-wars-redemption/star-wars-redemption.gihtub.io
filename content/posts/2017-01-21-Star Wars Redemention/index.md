@@ -1,7 +1,6 @@
 ---
 title: =Star Wars Redemption=
-#url: /star-wars-redemption/
-lastmod: 2020-04-05
+date: 2017-01-21
 description: "Star Wars Rédemption est un JDRA gratuit dans l’univers de starwars et reposant sur le JDR Savage Worlds"
 sitemap:
   priority: 1.0

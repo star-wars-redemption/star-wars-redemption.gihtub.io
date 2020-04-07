@@ -1,7 +1,6 @@
 ---
 title: =Star Wars Redemption+ v1.2.0
 date: 2017-08-15
-featured: besalisk.png
 categories:
   - "Livre de base"
 tags:
@@ -10,10 +9,12 @@ tags:
 
 ---
 
-Voilà une mise à jour de Star Wars Redemption avec comme principale nouveautés, les races Besalisk et Drall. 
+Une mise à jour de Star Wars Redemption avec comme principales nouveautés, les races Besalisk et Drall. 
 La première orientée plus bourrin, la seconde plutôt voleur.
 
 <!--more-->
+{{< figure src="drall.webp" class="floatright" >}}
+{{< figure src="besalisk.webp" class="floatleft" >}}
 En plus de ces deux nouvelles races, beaucoup de corrections de fautes de frappe et de quelques coquilles qui trainaient.
 
 Enfin, le fichier PDF est un peu plus gros mais il est beaucoup plus fluide. Les images ont été optimizées et 

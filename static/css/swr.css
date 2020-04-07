@@ -6,3 +6,17 @@
 h1, .main-nav__list {
     font-family: 'starJedi', serif;
 }
+
+.floatright {
+    float: right;
+}
+
+.floatleft {
+    float: left;
+    margin: 10px;
+}
+
+/* Fix scrolling bug in post page */
+.entry__content {
+    overflow: unset;
+}

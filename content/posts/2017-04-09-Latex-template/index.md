@@ -1,8 +1,7 @@
 ---
 title: +Latex Thème=
 date: 2017-04-09
-excerpt: "Le template LaTeX utilisé pour les PDF de Star Wars Redemption"
-featured: tex.png
+description: "Le template LaTeX utilisé pour les PDF de Star Wars Redemption"
 tags:
   - latex
   - divers

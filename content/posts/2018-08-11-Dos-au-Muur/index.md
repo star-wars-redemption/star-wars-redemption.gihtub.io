@@ -10,7 +10,6 @@ categories:
 tags:
   - MJ
   - campagne
-featured: talisman.png
 ---
 
 | Titre      | Dos au Muur         |
@@ -19,6 +18,8 @@ featured: talisman.png
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
 | Fichiers   | [dos-au-muur-v1.0.0.zip](https://git.framasoft.org/sw-redemption/swr-dos-au-mur/builds/artifacts/1.0.0/download?job=deploy-RELEASE) |
+
+{{< figure src="talisman.webp" class="floatright" >}}
 
 Cette campagne est écrite initialement pour [Star Wars Redemption] mais un scénar reste un scénar et il est jouable dans n’importe quel univers de Star Wars.
 
