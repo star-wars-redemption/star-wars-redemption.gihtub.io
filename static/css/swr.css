@@ -1,6 +1,7 @@
 @font-face {
     font-family:starJedi;
-    src:url(../font/Starjedi.ttf)
+    src:url(../font/Starjedi.ttf);
+    font-display: swap;
 }
 
 h1, .main-nav__list {
