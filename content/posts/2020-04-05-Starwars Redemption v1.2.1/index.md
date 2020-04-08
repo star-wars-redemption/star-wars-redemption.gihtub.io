@@ -1,13 +1,14 @@
 ---
 title: =Star Wars Redemption+ v1.2.1
-date: 2020-04-05
-description: Mise à jour du livre de base de Star Wars Redemption avec de nouvelles compétences et la fiche de personnage
+date: 2020-04-08
+description: Mise à jour du livre de base du jdra Star Wars Redemption avec de nouvelles compétences et la fiche de personnage
 categories:
   - "Livre de base"
 tags:
-  - pdf"
+  - pdf
   - release
   - MJ
+  - Joueur
 ---
 
 Voilà bien longtemps que je n’avais pas fait de modification. En cette période de confinement, on a ressorti les JDR et voilà donc quelques petites corrections sur le livre du joueur de SWR.

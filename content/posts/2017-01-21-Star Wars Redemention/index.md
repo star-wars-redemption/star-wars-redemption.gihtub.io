@@ -1,19 +1,18 @@
 ---
 title: =Star Wars Redemption=
 date: 2017-01-21
-description: "Star Wars Rédemption est un JDRA gratuit dans l’univers de starwars et reposant sur le JDR Savage Worlds"
+description: "Star Wars Rédemption est un JDRA gratuit sur papier dans l’univers de Star Wars et reposant sur le JDR Savage Worlds"
 sitemap:
   priority: 1.0
 categories:
   - "Livre de base"
 tags:
   - "pdf"
-  - "starwars"
   - "joueur"
   - "mj"
 ---
 
-Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</span> ? C’est vrai, il déjà plusieurs JdR amateur sur ce thème, comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvée présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative, il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
+Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</span> ? C’est vrai, il déjà plusieurs JdR amateur (jdra) sur ce thème, comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvée présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative, il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
 
 C’est pour cela que j’ai eu envie de faire une nouvelle version, une version disponible sur Github que n’importe qui pourra améliorer, corriger ou *forker* à volonté. C’est comme ça qu’est né **Star Wars Redemption**. Un MJ y trouvera tout ce dont ses joueurs ont besoin de savoir pour créer des fiches de perso et démarrer une partie. Bien sûr je n’ai pas retranscrit tout le bouquin original de Savage Worlds, mais les règles de base sont renseignées dans ce manuel afin que les joueurs n’aient pas à lire tout le bouquin de base. Le MJ lui n’y échappera pas. J’ai essayé autant que possible de rester dans l’esprit de Savage Worlds, simple et rapide à jouer et, au maximum, de réutiliser ce que le bouquin fournit.
 

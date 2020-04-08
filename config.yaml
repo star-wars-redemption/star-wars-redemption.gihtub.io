@@ -1,7 +1,7 @@
 ---
 baseURL: "https://swr.ght1pc9kc.fr/"
 languageCode: "fr-fr"
-title: "Star Wars Redemption - JDR"
+title: "Star Wars Redemption - JDRA"
 theme: "binario"
 
 author:
@@ -9,7 +9,7 @@ author:
 
 params:
   description: >
-    Star Wars Redemption est un jeux de rôle papier, adapté à partir de JDR générique Savage Worlds et basé sur l’univers de Star Wars.
+    Star Wars Redemption est un jeux de rôle papier amateur (jdra ou jdrp), adapté à partir de JDR générique Savage Worlds et basé sur l’univers de Star Wars.
     Il est composé d’un livre de base pour les joueurs et les MJs ainsi que de plusieurs scénarions et campagnes.
   mainMenuAlignment: right
   customCSS: 
