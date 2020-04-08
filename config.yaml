@@ -1,22 +1,17 @@
 ---
 baseURL: "https://swr.ght1pc9kc.fr/"
 languageCode: "fr-fr"
-title: "Starwars Redemption - Jeu de rôle papier"
+title: "Star Wars Redemption - JDR"
 theme: "binario"
-
-categories:
-  - "Category 1"
-  - "Category 2"
-tags:
-  - "scenario"
-  - "Another tag"
-
-menu: main
 
 author:
   name: Marthym
 
 params:
+  description: >
+    Star Wars Redemption est un jeux de rôle papier, adapté à partir de JDR générique Savage Worlds et basé sur l’univers de Star Wars.
+    Il est composé d’un livre de base pour les joueurs et les MJs ainsi que de plusieurs scénarions et campagnes.
+  mainMenuAlignment: right
   customCSS: 
     - /css/swr.css
   entry:
