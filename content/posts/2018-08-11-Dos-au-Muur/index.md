@@ -11,6 +11,8 @@ categories:
 tags:
   - MJ
   - campagne
+aliases:
+  - /2018/08/11/Dos-au-Muur/
 ---
 
 | Titre      | Dos au Muur         |
