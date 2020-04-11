@@ -18,6 +18,7 @@ C’est pour cela que j’ai eu envie de faire une nouvelle version, une version
 
 De même, j’ai choisi de ne pas trop approfondir la description de l’univers de Star Wars et de me concentrer sur les adaptations de Savage Worlds. L’univers est largement assez connu et détaillé dans les sites spécialisés sur internet (HoloNet, Star Wars Universe, …) et chaque MJ prendra les libertés qu’il souhaite dans son background. Ce manuel est à considérer comme le manuel du joueur, le MJ aura besoin du livre de base pour mener la partie. Les informations présentes dans ce manuel ne suffisent pas aux MJs.
 
+
 ## Grosbilisme
 
 Dans l’univers Star Wars il est vite tentant de vouloir se faire un personnage Jedi. Mais les Jedi ne sont pas monnaie courante dans l’univers. De plus un Jedi n’aura de réelles difficultés que contre des Sith, l’intérêt d’un tel personnage n’est qu’illusoire, il limite le nombre d’ennemis intéressants et l’évolution de votre personnage. C’est pourquoi dans ce manuel, faire un Jedi est faisable mais ça se mérite, historique, évolution, … Tout ça sera nécessaire pour faire un bon Jedi (ou un mauvais Sith).

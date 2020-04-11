@@ -1,7 +1,7 @@
 ---
 title: =Star Wars Redemption=
 date: 2017-01-21
-lastmod: 2020-04-08
+lastmod: 2020-04-11
 description: >
   Articles concernant le livre de base de Starwars Redemption, fiche de personnage et livre du maitre du jeux. 
   SWR est un jdra ou jdrp, jeux de rôle amateur papier.
@@ -18,6 +18,12 @@ Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</
 C’est pour cela que j’ai eu envie de faire une nouvelle version, une version disponible sur Github que n’importe qui pourra améliorer, corriger ou *forker* à volonté. C’est comme ça qu’est né **Star Wars Redemption**. Un MJ y trouvera tout ce dont ses joueurs ont besoin de savoir pour créer des fiches de perso et démarrer une partie. Bien sûr je n’ai pas retranscrit tout le bouquin original de Savage Worlds, mais les règles de base sont renseignées dans ce manuel afin que les joueurs n’aient pas à lire tout le bouquin de base. Le MJ lui n’y échappera pas. J’ai essayé autant que possible de rester dans l’esprit de Savage Worlds, simple et rapide à jouer et, au maximum, de réutiliser ce que le bouquin fournit.
 
 De même, j’ai choisi de ne pas trop approfondir la description de l’univers de Star Wars et de me concentrer sur les adaptations de Savage Worlds. L’univers est largement assez connu et détaillé dans les sites spécialisés sur internet (HoloNet, Star Wars Universe, …) et chaque MJ prendra les libertés qu’il souhaite dans son background. Ce manuel est à considérer comme le manuel du joueur, le MJ aura besoin du livre de base pour mener la partie. Les informations présentes dans ce manuel ne suffisent pas aux MJs.
+
+| Titre         | Livre de base                           | 
+| ------------- | --------------------------------------- |
+| Fichiers      | [Star Wars Redemption, Livre de base v1.2.2.pdf](https://github.com/star-war-redemption/jdrp-livre-de-base/releases/download/1.2.2/Star.Wars.Redemption.Livre.de.base.v1.2.2.pdf)                 |
+|               | [Fiche de perso](https://raw.githubusercontent.com/star-war-redemption/jdrp-livre-de-base/master/img/swr-fiche-perso.pdf) |
+| Contributions | https://github.com/star-war-redemption/ |
 
 ## Grosbilisme
 
