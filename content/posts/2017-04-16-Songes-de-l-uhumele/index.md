@@ -1,6 +1,7 @@
 ---
 title: =Songes de l’uhumele=
 date: 2017-04-11
+lastmod: 2020-04-11
 description: Scénario pour Star Wars Redemption (SWR), l’Uhumele un vaisseu de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille
 summary: |
     Un équipage de contrebandiers vient en aide à un Nausorien à retrouver sa femme et sa fille, emportées dans un réseau de traffic d’esclaves.
@@ -19,8 +20,8 @@ tags:
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [songes-de-l-uhumele-1.0.1.pdf](https://www.scenariotheque.org/Fichiers/scenarios/pdf/9023_songes_de_l_uhumele.pdf) |
-|            | [forteresse_esseles.png](https://www.scenariotheque.org/Fichiers/scenarios/pdf/9023_forteresse_esseles.png) |
+| Fichiers   | [SWR.Songes.de.l.Uhumele.v1.0.2.pdf](https://github.com/star-war-redemption/swr-songes-de-l-uhumele/releases/download/1.0.2/SWR.Songes.de.l.Uhumele.v1.0.2.pdf) |
+|            | [forteresse_esseles.png](https://raw.githubusercontent.com/star-war-redemption/swr-songes-de-l-uhumele/master/_img/forteresse-esseles.png) |
 
 {{< figure src="uhumele.webp" class="floatright" >}}
 Voici un court scénario sur le thème de l’Uhumele. Ce scénario bien qu’indépendant est fortement lié à la campagne "Dos au Muur" de [Star Wars Redemption]. C’est un scénario écrit pour faire patienter entre deux étapes de la campagne (2 et 3). 
@@ -34,6 +35,6 @@ A noter que ce scénario est plutôt fait pour des héros neutres ou orienté ge
 Ce scénario se passe normalement en -19 pendant les derniers affrontements entre l’armée des clones et les armées de droïde de la Confédération des Systèmes Indépendants.
 
 
-![image](https://git.framasoft.org/sw-redemption/latex-swr-class/raw/master/_img/wtfpl-badge.png)
+![image](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
 
 [Star Wars Redemption]: /star-wars-redemption/
