@@ -1,6 +1,7 @@
 ---
 title: =Dos au Muur=
 date: 2018-08-11
+lastmod: 2020-04-11
 description: Une campagne en 5 scénarios pour Star Wars Redemption, permettant l’introduction de personnages, pout un maitre du jeux débutant
 summary: |
     Une campagne en 5 scénarios permettant l’introduction de personnages. Tout est fourni, la campagne peut être géré par un MJ débutant.
@@ -20,7 +21,7 @@ aliases:
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [dos-au-muur-v1.0.0.zip](https://git.framasoft.org/sw-redemption/swr-dos-au-mur/builds/artifacts/1.0.0/download?job=deploy-RELEASE) |
+| Fichiers   | [SWR-Dos.au.Muur-1.0.1.pdf](https://github.com/star-war-redemption/swr-dos-au-mur/releases/download/1.0.1/SWR-Dos.au.Muur-1.0.1.pdf) |
 
 {{< figure src="talisman.webp" class="floatright" >}}
 
