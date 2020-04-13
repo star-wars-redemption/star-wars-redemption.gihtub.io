@@ -1,6 +1,8 @@
 ---
 baseURL: "https://swr.ght1pc9kc.fr/"
 languageCode: "fr-fr"
+defaultContentLanguage: "fr"
+
 title: "Star Wars Redemption - JDRA"
 theme: "binario"
 
@@ -14,12 +16,17 @@ params:
   mainMenuAlignment: right
   customCSS: 
     - /css/swr.css
+
   entry:
     meta:
       - date
       - categories
+
   share:
-    reddit: true
+    reddit:
+      community: /r/jdr
+  social:
+    github: star-war-redemption
 
 outputs:
   home:
