@@ -11,7 +11,7 @@ tags:
 
 Voici quelques temps maintenant que nos héros ont détruit le [Talisman de Muur]({{% relref "/posts/2018-08-11-Dos-au-Muur" %}}) et libéré Céleste Morne. Depuis ils ont prouvé leur valeur et on intégré la résistance (ou l’empire).
 
-On les rétrouve donc dans une nouvelle aventure à la poursuite d’un traffiquant de droïdes pour le compte de leur faction.
+On les retrouve donc dans une nouvelle aventure à la poursuite d’un traffiquant de droïdes pour le compte de leur faction.
 
 <!--more-->
 
