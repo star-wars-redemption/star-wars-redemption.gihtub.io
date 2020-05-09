@@ -21,7 +21,7 @@ aliases:
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [SWR-Dos.au.Muur-1.0.1.pdf](https://github.com/star-war-redemption/swr-dos-au-mur/releases/download/1.0.1/SWR-Dos.au.Muur-1.0.1.pdf) |
+| Fichiers   | [SWR-Dos.au.Muur-1.0.1.pdf](https://github.com/star-wars-redemption/swr-dos-au-mur/releases/download/1.0.1/SWR-Dos.au.Muur-1.0.1.pdf) |
 
 {{< figure src="talisman.webp" class="floatright" >}}
 

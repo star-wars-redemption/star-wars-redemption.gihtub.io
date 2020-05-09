@@ -19,4 +19,4 @@ Voilà bien longtemps que je n’avais pas fait de modification. En cette pério
 * Optimisation de la taille du fichier
 
 
-[Manuel du joueur](https://github.com/star-war-redemption/jdrp-livre-de-base/releases/download/1.2.2/Star.Wars.Redemption.Livre.de.base.v1.2.2.pdf)
+[Manuel du joueur](https://github.com/star-wars-redemption/jdrp-livre-de-base/releases/download/1.2.2/Star.Wars.Redemption.Livre.de.base.v1.2.2.pdf)

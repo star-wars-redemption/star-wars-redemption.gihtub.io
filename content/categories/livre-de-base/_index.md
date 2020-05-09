@@ -21,9 +21,9 @@ De même, j’ai choisi de ne pas trop approfondir la description de l’univers
 
 | Titre         | Livre de base                           | 
 | ------------- | --------------------------------------- |
-| Fichiers      | [Star Wars Redemption, Livre de base v1.2.2.pdf](https://github.com/star-war-redemption/jdrp-livre-de-base/releases/download/1.2.2/Star.Wars.Redemption.Livre.de.base.v1.2.2.pdf)                 |
-|               | [Fiche de perso](https://raw.githubusercontent.com/star-war-redemption/jdrp-livre-de-base/master/img/swr-fiche-perso.pdf) |
-| Contributions | https://github.com/star-war-redemption/ |
+| Fichiers      | [Star Wars Redemption, Livre de base v1.2.2.pdf](https://github.com/star-wars-redemption/jdrp-livre-de-base/releases/download/1.2.2/Star.Wars.Redemption.Livre.de.base.v1.2.2.pdf)                 |
+|               | [Fiche de perso](https://raw.githubusercontent.com/star-wars-redemption/jdrp-livre-de-base/master/img/swr-fiche-perso.pdf) |
+| Contributions | https://github.com/star-wars-redemption/ |
 
 ## Grosbilisme
 

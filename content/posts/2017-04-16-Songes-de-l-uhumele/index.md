@@ -20,8 +20,8 @@ tags:
 | Joueurs    | 2 ~ 5               |
 | Perso      | Novice              |
 | Difficulté | Intermédiaire       |
-| Fichiers   | [SWR.Songes.de.l.Uhumele.v1.0.2.pdf](https://github.com/star-war-redemption/swr-songes-de-l-uhumele/releases/download/1.0.2/SWR.Songes.de.l.Uhumele.v1.0.2.pdf) |
-|            | [forteresse_esseles.png](https://raw.githubusercontent.com/star-war-redemption/swr-songes-de-l-uhumele/master/_img/forteresse-esseles.png) |
+| Fichiers   | [SWR.Songes.de.l.Uhumele.v1.0.2.pdf](https://github.com/star-wars-redemption/swr-songes-de-l-uhumele/releases/download/1.0.2/SWR.Songes.de.l.Uhumele.v1.0.2.pdf) |
+|            | [forteresse_esseles.png](https://raw.githubusercontent.com/star-wars-redemption/swr-songes-de-l-uhumele/master/_img/forteresse-esseles.png) |
 
 {{< figure src="uhumele.webp" class="floatright" >}}
 Voici un court scénario sur le thème de l’Uhumele. Ce scénario bien qu’indépendant est fortement lié à la campagne "Dos au Muur" de [Star Wars Redemption]. C’est un scénario écrit pour faire patienter entre deux étapes de la campagne (2 et 3). 
