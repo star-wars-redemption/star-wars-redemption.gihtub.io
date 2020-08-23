@@ -2,6 +2,7 @@
 baseURL: "https://swr.ght1pc9kc.fr/"
 languageCode: "fr-fr"
 defaultContentLanguage: "fr"
+googleAnalytics: UA-123735022-1
 
 title: "Star Wars Redemption - JDRA"
 theme: "binario"
