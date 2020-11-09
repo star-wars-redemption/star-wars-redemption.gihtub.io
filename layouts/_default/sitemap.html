@@ -1,0 +1,19 @@
+{{ define "main" }}
+    <main class="main">
+        <div class="single block">
+        <h1>{{ .Title }}</h1>
+        <ul class="categories">
+            {{range $name, $taxonomy := .Site.Taxonomies.categories}}
+            <li>
+                <a href="{{ $.Site.BaseURL }}{{"categories/" | relLangURL}}{{$name | urlize}}">{{ $name }}</a>
+                <ul>
+                    {{ range $taxonomy.Pages }}
+                    <li hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink}}"> {{ replaceRE "[=+]" "" .LinkTitle }} </a> </li>
+                    {{ end }}
+                </ul>
+            </li>
+            {{end}}
+        </ul>
+    </div>
+    </main>
+{{ end }}
