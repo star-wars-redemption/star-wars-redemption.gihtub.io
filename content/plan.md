@@ -1,7 +1,7 @@
 ---
 title: Plan du site
 layout: sitemap
-url: plan.html
+url: sitemap.html
 menu:
   footer:
     name: Plan du site

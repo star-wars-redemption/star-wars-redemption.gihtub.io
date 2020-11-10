@@ -5,7 +5,7 @@
         <ul class="categories">
             {{range $name, $taxonomy := .Site.Taxonomies.categories}}
             <li>
-                <a href="{{ $.Site.BaseURL }}{{"categories/" | relLangURL}}{{$name | urlize}}">{{ $name }}</a>
+                <a href="{{ "categories/" | absLangURL }}{{$name | urlize}}">{{ $name }}</a>
                 <ul>
                     {{ range $taxonomy.Pages }}
                     <li hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink}}"> {{ replaceRE "[=+]" "" .LinkTitle }} </a> </li>
