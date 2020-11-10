@@ -4,7 +4,7 @@
     font-display: swap;
 }
 
-h1, .main-nav__list {
+.entry__title, .main-nav__list {
     font-family: 'starJedi', serif;
 }
 
@@ -21,3 +21,4 @@ h1, .main-nav__list {
 .entry__content {
     overflow: unset;
 }
+
