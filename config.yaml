@@ -15,6 +15,7 @@ params:
     Star Wars Redemption est un jeux de rôle papier amateur (jdra ou jdrp), adapté à partir de JDR générique Savage Worlds et basé sur l’univers de Star Wars.
     Il est composé d’un livre de base pour les joueurs et les MJs ainsi que de plusieurs scénarions et campagnes.
   mainMenuAlignment: right
+  opengraph: true
   customCSS: 
     - /css/swr.css
 
