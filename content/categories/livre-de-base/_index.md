@@ -1,5 +1,5 @@
 ---
-title: =Star Wars Redemption=
+title: Le livre de base
 date: 2017-01-21
 lastmod: 2020-04-11
 description: >
