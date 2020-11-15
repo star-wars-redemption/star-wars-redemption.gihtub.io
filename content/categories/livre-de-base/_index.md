@@ -5,8 +5,6 @@ lastmod: 2020-04-11
 description: >
   Articles concernant le livre de base de Starwars Redemption, fiche de personnage et livre du maitre du jeux. 
   SWR est un jdra ou jdrp, jeux de rôle amateur papier.
-aliases:
-  - /star-wars-redemption/
 menu: main
 layout: list
 sitemap:

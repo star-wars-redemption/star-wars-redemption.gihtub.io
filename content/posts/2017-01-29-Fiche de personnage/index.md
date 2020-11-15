@@ -1,8 +1,6 @@
 ---
 title: +Fiche de Personnage=
 description: "Fiche de perso modifiable (svg) pour le JdR Star Wars Redemption"
-aliases:
-  - /2017/01/29/Fiche-de-personnage/
 date: 2017-01-29
 tags:
   - jouer
