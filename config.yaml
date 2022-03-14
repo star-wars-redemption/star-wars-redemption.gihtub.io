@@ -18,6 +18,7 @@ params:
   opengraph: true
   customCSS: 
     - /css/swr.css
+  matomo: 11
 
   entry:
     meta:

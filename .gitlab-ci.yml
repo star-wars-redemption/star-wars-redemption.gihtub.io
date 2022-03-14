@@ -8,9 +8,9 @@ stages:
   
 build:pages:
   stage: build
-  image: monachus/hugo:v0.68.3
+  image: registry.gitlab.com/pages/hugo/hugo_extended:0.89.4
   script:
-    - hugo
+    - hugo --minify
   artifacts:
     paths:
       - public
