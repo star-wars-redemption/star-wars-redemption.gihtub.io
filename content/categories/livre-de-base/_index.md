@@ -1,7 +1,7 @@
 ---
 title: Le livre de base
 date: 2017-01-21
-lastmod: 2020-04-11
+lastmod: 2022-09-09
 description: >
   Articles concernant le livre de base de Starwars Redemption, fiche de personnage et livre du maitre du jeux. 
   SWR est un jdra ou jdrp, jeux de rôle amateur papier.
@@ -11,15 +11,15 @@ sitemap:
   priority: 1.0
 ---
 
-Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</span> ? C’est vrai, il déjà plusieurs JdR amateur (jdra) sur ce thème, comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvée présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative (open source), il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
+Encore une autre adaptation de Savage Worlds à l’univers de <span>Star Wars</span> ? C’est vrai, il y a déjà plusieurs JdR amateur (jdra) sur ce thème, comme Star Wars Reloaded ou Star Wars Unchained. Mais toutes les versions que j’ai trouvées présentent des défauts: fautes d’orthographe ou de typo, traductions relatives, trop ou pas assez de détails, … Mais surtout, aucune des versions que j’ai trouvées n’est collaborative (open source), il n’est pas possible de proposer des corrections ou des améliorations ni de se *forker* sa propre version.
 
-C’est pour cela que j’ai eu envie de faire une nouvelle version, une version disponible sur Github que n’importe qui pourra améliorer, corriger ou *forker* à volonté. C’est comme ça qu’est né **Star Wars Redemption**. Un MJ y trouvera tout ce dont ses joueurs ont besoin de savoir pour créer des fiches de perso et démarrer une partie. Bien sûr je n’ai pas retranscrit tout le bouquin original de Savage Worlds, mais les règles de base sont renseignées dans ce manuel afin que les joueurs n’aient pas à lire tout le bouquin de base. Le MJ lui n’y échappera pas. J’ai essayé autant que possible de rester dans l’esprit de Savage Worlds, simple et rapide à jouer et, au maximum, de réutiliser ce que le bouquin fournit.
+C’est pour cela que j’ai eu envie de faire une nouvelle version, une version disponible sur Github que n’importe qui pourra améliorer, corriger ou *forker* à volonté. C’est comme ça qu’est né **Star Wars Redemption**. Un MJ y trouvera tout ce dont ses joueurs ont besoin de savoir pour créer des fiches de perso et démarrer une partie. Bien sûr, je n’ai pas retranscrit tout le bouquin original de Savage Worlds, mais les règles de base sont renseignées dans ce manuel afin que les joueurs n’aient pas à lire tout le bouquin de base. Le MJ lui n’y échappera pas. J’ai essayé autant que possible de rester dans l’esprit de Savage Worlds, simple et rapide à jouer et, au maximum, de réutiliser ce que le bouquin fournit.
 
 De même, j’ai choisi de ne pas trop approfondir la description de l’univers de Star Wars et de me concentrer sur les adaptations de Savage Worlds. L’univers est largement assez connu et détaillé dans les sites spécialisés sur internet (HoloNet, Star Wars Universe, …) et chaque MJ prendra les libertés qu’il souhaite dans son background. Ce manuel est à considérer comme le manuel du joueur, le MJ aura besoin du livre de base pour mener la partie. Les informations présentes dans ce manuel ne suffisent pas aux MJs.
 
 | Titre         | Livre de base                           | 
 | ------------- | --------------------------------------- |
-| Fichiers      | [Star Wars Redemption, Livre de base v1.2.2.pdf](https://github.com/star-wars-redemption/jdrp-livre-de-base/releases/download/1.2.2/Star.Wars.Redemption.Livre.de.base.v1.2.2.pdf)                 |
+| Fichiers      | [Star Wars Redemption, Livre de base v1.2.3.pdf](https://github.com/star-wars-redemption/jdrp-livre-de-base/releases/download/1.2.3/Star.Wars.Redemption.Livre.de.base.v1.2.3.pdf)                 |
 |               | [Fiche de perso](https://raw.githubusercontent.com/star-wars-redemption/jdrp-livre-de-base/master/img/swr-fiche-perso.pdf) |
 | Contributions | https://github.com/star-wars-redemption/ |
 

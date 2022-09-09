@@ -9,11 +9,11 @@ categories:
 tags: [jdra, jdr, starwars]
 ---
 
-Pour changer un peu de scénarios et campagnes Star Wars, je vous propose de parler {{< abbr JDRA "Jeu De Role Amateur" >}}.
+Pour changer un peu de scénarios et campagnes Star Wars, je vous propose de parler {{< abbr JDRA "Jeu De Rôle Amateur" >}}.
 
 ## JDR, JDRP, JDRA
 
-On va parler de {{< abbr JDR "Jeu De Role" >}} dans la plupart des cas, mais le vrai JDR, au sens premier du terme, c’est l’activité grandeur nature où une bande de Geek se regroupe et met en scène une aventure. Ça se joue déguisé et ça peu aller très loin :).
+On va parler de {{< abbr JDR "Jeu De Rôle" >}} dans la plupart des cas, mais le vrai JDR, au sens premier du terme, c’est l’activité grandeur nature où une bande de Geek se regroupe et met en scène une aventure. Ça se joue déguisé et ça peu aller très loin :).
 
 Le {{< abbr JDRP "Jeu De Role Papier/Plateau" >}} lui se joue autour d’une table avec du “papier”. Le {{< abbr MJ "Meneur de Jeu" >}} décrit les évènements et les {{< abbr PJ "Personnage Joueur" >}} réagissent en décrivant les actions. Tout le monde se base sur des fiches de personnages imprimées sur papier et gribouillé au fur et à mesure que l’aventure avance. L’objectif est toujours de s’immerger dans un monde fantastique et de sortir de son quotidien pour affronter des péripéties sans autre limite que votre imaginaire. Les différents univers son soumis à des règles, un peu comme les lois de la physique mais en beaucoup plus souple, vraiment, vraiment, plus souple. Les PJ et MJ utilisent des dés pour simuler le hasard et ajouter de l’imprévu et du non prévisible. Selon les règles, on trouvera des dés à 2, 4… 20 faces.
 
@@ -21,15 +21,15 @@ Enfin le {{< abbr JDRA "Jeu De Role Amateur" >}} est un JDRP dont les règles et
 
 ## Du côté de Star Wars
 
-Dans la galaxie Star Wars, le premier JDR officiel date de 1987 et se joue avec des dés à 6 faces. En 1999 parait la version “Star wars D20” il est connaît et réputé, mais je n’y ai personnellement jamais joué. Enfin en 2014 sort “Aux Confins de l’Empire”, basé sur un système dés spéciaux, spécifiques à la série de jeu, plus complexe que les systèmes d6 et d20 historique. S’ensuivent dans la même veine “L’Ère de la Rébellion” et “Force et Destinée”. Ces deux derniers sont des variantes d’ambiance et d’objectifs de missions mais reste sur le même système de jeu.
+Dans la galaxie Star Wars, le premier JDR officiel date de 1987 et se joue avec des dés à 6 faces. En 1999 parait la version “Star wars D20” il est connu et réputé, mais je n’y ai personnellement jamais joué. Enfin en 2014 sort “Aux Confins de l’Empire”, basé sur un système dés spéciaux, spécifiques à la série de jeux, plus complexe que les systèmes d6 et d20 historique. S’ensuivent dans la même veine “L’Ère de la Rébellion” et “Force et Destinée”. Ces deux derniers sont des variantes d’ambiance et d’objectifs de missions mais reste sur le même système de jeu.
 
-Tout ça c’est vraiment bien, j’y ai jamais joué personnellement, mais j’ai lu pas mal de bonnes critiques. Ce qui je trouve dommage c’est que c’est assez cher et au final, ça ne fait que parler d’un univers que nous, fan, nous connaissons souvent très bien. Et le charme de faire son scénario ou sa campagne soit même avec ce qu’on va trouver sur internet c’est quand même pas mal.
+Tout ça, c'est vraiment bien, je n'y ai jamais joué personnellement, mais j’ai lu pas mal de bonnes critiques. Ce qui je trouve dommage c’est que c’est assez cher et finalement, ça ne fait que parler d’un univers que nous, fan, nous connaissons souvent très bien. Et le charme de faire son scénario ou sa campagne soit même avec ce qu’on va trouver sur internet c’est quand même pas mal.
 
 ### Le Jeu de Rôle Amateur
 
-De par sa taille et la quantité de détails de son univers, Star Wars est un univers propice au {{< abbr JDRA "Jeu De Role Amateur" >}}. 
+Grâce à sa taille et la quantité de détails de son univers, Star Wars est un univers propice au {{< abbr JDRA "Jeu De Role Amateur" >}}. 
 
-L’intérêt des {{< abbr JDRA "Jeu De Role Amateur" >}} c’est que c’est gratuit et le plus souvent cela représente une base de règles pour un {{< abbr MJ "Meneur de Jeu" >}} qui va pouvoir se faire plaisir à monter ses campagnes de A à Z. Alors certes c’est un peu plus long coté MJ de monter une campagne, mais si vous connaissez bien vos joueurs, c’est clairement mieux d’avoir un scénario adapter à leurs envies des jeux.
+L’intérêt des {{< abbr JDRA "Jeu De Rôle Amateur" >}} c’est que c’est gratuit et le plus souvent cela représente une base de règles pour un {{< abbr MJ "Meneur de Jeu" >}} qui va pouvoir se faire plaisir à monter ses campagnes de A à Z. Alors certes c’est un peu plus long coté MJ de monter une campagne, mais si vous connaissez bien vos joueurs, c’est clairement mieux d’avoir un scénario adapter à leurs envies des jeux.
 
 Dans la série des JDRA Star Wars, on pourra citer :
 
