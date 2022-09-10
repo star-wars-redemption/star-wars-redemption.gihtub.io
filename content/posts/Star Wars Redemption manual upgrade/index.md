@@ -12,12 +12,11 @@ tags:
   - Joueur
 ---
 
-## 10 septembre 2022
-
 Grâce à la contribution d’[orionaskatu](https://github.com/orionaskatu) voilà une nouvelle version du livre de base avec pas mal de fautes d'orthographe corrigées. Et quelques améliorations comme l’utilisation d’acronymes pour améliorer la lecture.
 
 [Manuel du joueur](https://github.com/star-wars-redemption/jdrp-livre-de-base/releases/download/1.2.3/Star.Wars.Redemption.Livre.de.base.v1.2.3.pdf)
 
+<!--more-->
 ## 04 novembre 2020
 Voilà bien longtemps que je n’avais pas fait de modification. En cette période de confinement, on a ressorti les JDR et voilà donc quelques petites corrections sur le livre du joueur de SWR.
 
